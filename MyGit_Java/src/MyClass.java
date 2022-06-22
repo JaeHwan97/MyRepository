@@ -9,6 +9,7 @@ public class MyClass {
 
 		A myHello = new A();
 		myHello.sayHello1();
+		System.out.println("v1.0");
 	}
 
 } 
